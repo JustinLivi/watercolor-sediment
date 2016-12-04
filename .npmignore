@@ -1,0 +1,7 @@
+.gitignore
+.DS_Store
+*.eslintrc
+webpack.config.js
+test
+scripts
+*.logs
